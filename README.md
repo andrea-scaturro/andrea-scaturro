@@ -8,6 +8,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-scaturro&layout=donut&theme=dark )](https://github.com/andrea-scaturro/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/andrea-scaturro-8ba2552b8/">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn Logo" width="30" height="30">
-</a>
+<div style="display: flex;">
+    <a href="https://www.linkedin.com/in/andrea-scaturro-8ba2552b8/" style="margin-right: 10px;">
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn Logo" width="30" height="30">
+    </a>
+    <a href="mailto:andrea11122000@gmail.com">
+        <img src="https://img.icons8.com/fluent/48/ffffff/gmail.png" alt="Gmail" style="width:30px;height:30px;">
+    </a>
+</div>
+
