@@ -1,6 +1,6 @@
 # Hello! 
 
-<div style="margin-top: 30px; margin-bottom: 30px;">
+<div style="margin-top: 300px; margin-bottom: 30px;">
     <ul>
         <li><h4>📍 Based in Turin</h4></li>
         <li><h4>📚 MSc student in AI and Data Analytics, at Politecnico di Torino</h4></li>
