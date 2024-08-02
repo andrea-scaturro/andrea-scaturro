@@ -20,9 +20,7 @@
     <img width="30" height="30" src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="gmail-new"/>
 </a>
 
-<a style="margin-left:10px" href="https://t.me/Scaturro2"> 
-<img width="30" height="30" src="https://img.icons8.com/ios-filled/50/ffffff/telegram.png" alt="telegram"/>
-</a>
+
 
 
   
