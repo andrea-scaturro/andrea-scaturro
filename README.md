@@ -9,7 +9,7 @@
 </div>
 
 
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-scaturro&layout=donut&theme=dark )](https://github.com/andrea-scaturro/github-readme-stats)
 
 <div style="display: flex; margin-top:20px; margin-right:25px ">
